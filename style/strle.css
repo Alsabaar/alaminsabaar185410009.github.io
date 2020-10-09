@@ -1,0 +1,30 @@
+/*use-itty-bitty-template*/
+
+body {
+    background: rgb(115, 133, 140);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    border-bottom: 1px solid #ccc;
+    color: #000241;
+    padding-bottom: 8px
+}
+
+.container {
+    margin: auto;
+    width: 350px;
+    text-align: center;
+}
+
+.listFlex {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 100%;
+}
